@@ -3,9 +3,9 @@
 BinaryJS
 ========
 
-We're under heavy development! 
+開発中です！
 
-For docs and more info
+ドキュメントや詳しい情報はこちら。
 http://binaryjs.com
 
 Node binary websocket streaming made easy

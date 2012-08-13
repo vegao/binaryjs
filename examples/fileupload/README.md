@@ -1,19 +1,19 @@
-## Drag and Drop File Upload Example w/ Percentage completion
+## ファイルのドラッグ＆ドロップでアップロードする例（進捗パーセント表示付き）
 
 
-1. Run the server:
+1. サーバを実行する:
 ```  
 node server.js
 ``` 
 
-2. Go to
+2. ブラウザで開く
 ```
 http://localhost:9000/
 ``` 
 
-3. Drag a file into the box. Percent transferred will be shown and the file will be saved in the example's directory.
+3. ボックスの中にファイルをどらっぐする。送信パーセントが表示され、ファイルはディレクトリに保存される。
 
 
 
-Server code is contained in `server.js`
-Client side code is contained in `public/index.html`
+サーバコードは `server.js` に含まれています。
+クライアントサイドコードは `public/index.html` に含まれています。

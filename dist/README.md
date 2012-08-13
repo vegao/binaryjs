@@ -1,6 +1,6 @@
-## BinaryJS Clients
+## BinaryJS クライアント
 
-These files are available via cdn
+これらのファイルはCDNを通じて利用できます。
 
 http://cdn.binaryjs.com/0/binary.js
 

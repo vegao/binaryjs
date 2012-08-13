@@ -1,11 +1,11 @@
-## BinaryJS Examples
+## BinaryJS サンプル
 
 ### [Hello World](https://github.com/binaryjs/binaryjs/tree/master/examples/helloworld)
 
-[View live demo](http://examples.binaryjs.com/hw.html)
+[ライブでもを見る](http://examples.binaryjs.com/hw.html)
 
-Simple example that streams a flower picture to the client
+クライアントへ花の画像をストリームするシンプルな例
 
-### [Streaming File Upload](https://github.com/binaryjs/binaryjs/tree/master/examples/fileupload)
+### [ストリーミングファイルアップロード](https://github.com/binaryjs/binaryjs/tree/master/examples/fileupload)
 
-HTML5 drag and drop file upload with percentage progress
+HTML5のドラッグ＆ドロップでパーセンテージの進捗付きでファイルアップロードする

@@ -1,14 +1,15 @@
-## Hello World example
+## Hello World サンプル
 
 
-1. Run the server:
+1. サーバを実行する:
 ```  
 node server.js
 ``` 
 
-2. Open `index.html` in your browser
+2. `index.html` をブラウザで開く
 
-You should see a flower. If not, your browser probably doesn't support binary websockets.
+花が表示されます。そうでない場合はおそらくブラウザがバイナリwebsocketをサポートしていません。
 
 Server code is contained in `server.js`
-Client side code is contained in `index.html`
+サーバコードは `server.js` に含まれます。
+クライアントサイドコードは `index.html` に含まれます。

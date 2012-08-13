@@ -11,24 +11,24 @@ http://binaryjs.com
 Node binary websocket streaming made easy
 
 
-## Download
+## ダウンロード
 
-Server
+サーバ
 
 ```console
 $ npm install binaryjs
 ```
-or from Git
+またはGitから
 ```console
 $ git clone git://github.com/binaryjs/binaryjs.git
 $ cd binaryjs 
 $ npm install -g
 ```
 
-Client
+クライアント
 
 ```html
 <script src="http://cdn.binaryjs.com/0/binary.js"></script>
 ```
 
-### http://binaryjs.com for docs and demos
+### http://binaryjs.com にドキュメントとデモがあります。
